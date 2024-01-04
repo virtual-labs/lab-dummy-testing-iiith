@@ -15,31 +15,17 @@
       "sect-name": "Sorting",
       "experiments": [
         {
-          "name": "Dummy Bubble Sort",
-          "short-name": "bubble-sort",
-          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.9",
+          "name": "Dummy Experiment 1",
+          "short-name": "Experiment-1",
+          "repo": "https://github.com/virtual-labs/exp-dummy-experiment1-iiith.git",
+          "tag": "v1.0.0",
           "deploy": true
         },
         {
-          "name": "Dummy Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
-          "deploy": true
-        },
-        {
-          "name": " Dummy Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Dummy Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
+          "name": "Dummy Experiment 2",
+          "short-name": "Experiment-1",
+          "repo": "https://github.com/virtual-labs/exp-dummy-experiment2-iiith.git",
+          "tag": "v1.0.0",
           "deploy": true
         }
       ]
